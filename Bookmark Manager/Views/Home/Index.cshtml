@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Bookmark_Manager.Models.Bookmark>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+ 
+<div class="card">
+    <h2>Most Recent Tagged Items</h2>
+    <ul class="most-recent">
+        @foreach (var item in Model)
+        {
+            <li>
+                <a href="@item.Url" target="_blank"><i class="fa fa-tags"></i> @item.Title</a>
+                <p>@item.Description</p>
+            </li>
+        }
+    </ul>
+</div>
+<hr />
+<div class="row home-columns">
+    <div class="col-md-4">
+        <div class="card">
+            <h2><i class="fa fa-css3"></i> CSS Related</h2>
+            @Html.Action("CssTags", "Bookmarks")
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card">
+            <h2>Javascript Related</h2>
+            @Html.Action("JavascriptTags", "Bookmarks")
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card">
+            <h2>SEO related</h2>
+            @Html.Action("SeoTags", "Bookmarks")
+        </div>
+    </div>
+</div>

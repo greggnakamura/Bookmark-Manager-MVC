@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Bookmark_Manager.Models.Bookmark>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>
+            <a href="@item.Url" target="_blank">@item.Title</a>
+            @item.Description
+        </li>
+        @*<tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateCreated)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateModified)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Url)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tags)
+            </td>
+        </tr>*@
+    }
+</ul>

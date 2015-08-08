@@ -1,0 +1,55 @@
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\roslyn\csc.exe
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\roslyn\vbc.exe
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Bookmark Manager.Tests.dll.config
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Bookmark Manager.Tests.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Bookmark Manager.Tests.pdb
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Bookmark Manager.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\System.Web.Helpers.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\System.Web.Mvc.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\System.Web.Razor.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\System.Web.WebPages.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Microsoft.Owin.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\System.Web.Optimization.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Owin.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\EntityFramework.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Bookmark Manager.pdb
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\System.Web.Helpers.xml
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\System.Web.Mvc.xml
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\System.Web.Razor.xml
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\System.Web.WebPages.xml
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Microsoft.Owin.xml
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\System.Web.Optimization.xml
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\EntityFramework.xml
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\obj\Debug\Bookmark Manager.Tests.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\obj\Debug\Bookmark Manager.Tests.dll
+C:\inetpub\wwwroot\GitHub\Bookmark Manager\Bookmark Manager.Tests\obj\Debug\Bookmark Manager.Tests.pdb

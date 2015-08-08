@@ -1,0 +1,70 @@
+﻿body {
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.card {
+    padding: 0 20px;
+}
+
+/* navigation */
+.navbar.card {
+    position: fixed;
+    padding: 0;
+}
+
+/* homepage */
+.home-columns {
+    display: table;
+}
+.home-columns > div {
+    display: table-cell;    
+}
+.home-columns ul {
+    padding: 0;
+}
+.home-columns li {
+    list-style: none;
+}
+
+.most-recent {
+    margin: 0;
+    padding: 0;
+}
+.most-recent li {
+    list-style: none;
+}
+.most-recent li a {
+    font-weight: bold;
+    display: inline-block;
+}
+.most-recent li p {
+    margin-left: 20px;    
+}
+
+/* media queries */
+@media (min-width: 1200px) {
+    .container {
+        max-width: 970px;
+    }
+}
